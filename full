@@ -1,0 +1,2 @@
+var name = "nagu";
+console.log('my name is ${name}');
